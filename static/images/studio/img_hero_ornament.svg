@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1336px" height="707px" viewBox="0 0 1336 707" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>ORNAMENT</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M50,0 L50,0 L50,0 L50,50 L0,50 C-3.38176876e-15,22.3857625 22.3857625,5.07265313e-15 50,0 Z" id="sht-path-1"></path>
+        <path d="M-4.47641924e-13,0 C23.0594643,0 41.7528536,18.8040405 41.7528536,42 L41.7528536,42 L-4.54747351e-13,42 Z" id="sht-path-3"></path>
+        <polygon id="sht-path-5" points="47.717547 -7.10542736e-14 -4.54747351e-13 -7.10542736e-14 -4.54747351e-13 48 47.717547 48"></polygon>
+        <path d="M63.623396,63 L63.623396,-7.10542736e-14 C28.836547,-7.10542736e-14 0.570368599,27.6447602 0.00852371729,61.9581798 L-4.54747351e-13,63 L63.623396,63 L63.623396,-7.10542736e-14 L63.623396,63 Z" id="sht-path-7"></path>
+        <path d="M103,0 C243.552925,0 357.493584,112.824243 357.493584,252 L357.493584,252 L103,252 Z" id="sht-path-9"></path>
+        <circle id="sht-path-11" cx="84" cy="84" r="84"></circle>
+        <path d="M149.128914,137.053417 C160.92579,122.588911 168,102.12059 168,82 C168,35.608081 130.391919,-2 84,-2 C37.608081,-2 0,35.608081 0,82 C0,101.769518 6.82949623,122.704714 18.2579017,137.053417 C34.1508617,137.053417 113.84052,137.053417 149.128914,137.053417 Z" id="sht-path-13"></path>
+        <circle id="sht-path-15" cx="54.7451985" cy="54.7451985" r="54.7451985"></circle>
+    </defs>
+    <g id="sht-Studio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-104.000000, -183.000000)" id="sht-ORNAMENT">
+            <g transform="translate(104.000000, 183.000000)">
+                <polygon id="sht-img_box_blue" fill="#9EE5FF" transform="translate(442.000000, 521.000000) scale(1, -1) rotate(-90.000000) translate(-442.000000, -521.000000) " points="471 455.148021 413 455 413 587 470.867202 587"></polygon>
+                <polygon id="sht-img_blue_trapesiium" fill="#9EE5FF" transform="translate(38.944922, 289.113468) scale(-1, -1) translate(-38.944922, -289.113468) " points="77.8898447 267.801335 3.41060513e-13 267 0.299592164 293.838143 17.0898427 311.226935 77.8898447 311.226935"></polygon>
+                <g id="sht-img_orange_little" transform="translate(701.000000, 576.000000)">
+                    <mask id="sht-mask-2" fill="white">
+                        <use xlink:href="#sht-path-1"></use>
+                    </mask>
+                    <use id="sht-Mask" fill="#FFE6D5" transform="translate(25.000000, 25.000000) scale(-1, 1) rotate(-270.000000) translate(-25.000000, -25.000000) " xlink:href="#sht-path-1"></use>
+                </g>
+                <g id="sht-img_lines_dot" transform="translate(110.000000, 138.000000)" stroke="#CDCDF8" stroke-dasharray="0,24.00000035762787" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.80000007">
+                    <line x1="-3.83693077e-13" y1="32.4000005" x2="124.063924" y2="32.4000005" id="sht-Line-9-Copy"></line>
+                    <line x1="-3.83693077e-13" y1="0.400000006" x2="124.063924" y2="0.400000006" id="sht-Line-9-Copy-3"></line>
+                    <line x1="-3.83693077e-13" y1="16.4000002" x2="124.063924" y2="16.4000002" id="sht-Line-9-Copy-4"></line>
+                </g>
+                <g id="sht-img_green_halfcircle" transform="translate(260.000000, 0.000000)">
+                    <mask id="sht-mask-4" fill="white">
+                        <use xlink:href="#sht-path-3"></use>
+                    </mask>
+                    <use id="sht-Mask" fill="#46CB8B" transform="translate(20.876427, 21.000000) scale(-1, 1) translate(-20.876427, -21.000000) " xlink:href="#sht-path-3"></use>
+                </g>
+                <g id="sht-img_green-purple" transform="translate(978.000000, 486.000000)" stroke="#299E65" stroke-linecap="square" stroke-width="8.73600074">
+                    <path d="M133.530521,159.772727 L0.690521092,159.772727 M133.530521,176.954545 L0.690521092,176.954545 M133.530521,108.227273 L0.690806655,108.227273 M133.530521,125.409091 L0.691252613,125.409091 M133.530521,143.409091 L0.690521092,143.409091 M133.530521,91.8636364 L0.690521092,91.8636364 M133.530521,20.3181818 L0.690806655,20.3181818 M133.530521,1.31818182 L0.690806655,1.31818182 M133.530521,38.5 L0.691252613,38.5 M133.530521,57.5 L0.690521092,57.5 M133.530521,74.6818182 L0.690521092,74.6818182" id="sht-Combined-Shape"></path>
+                </g>
+                <g id="sht-img_purple_box" transform="translate(171.000000, 492.000000)">
+                    <mask id="sht-mask-6" fill="white">
+                        <use xlink:href="#sht-path-5"></use>
+                    </mask>
+                    <use id="sht-Path" fill="#9075FF" xlink:href="#sht-path-5"></use>
+                    <path d="M50.8687699,40.6753247 L0.263055654,40.6753247 M50.8687699,47.2207792 L0.263055654,47.2207792 M50.8687699,21.038961 L0.26316444,21.038961 M50.8687699,27.5844156 L0.263334329,27.5844156 M50.8687699,34.4415584 L0.263055654,34.4415584 M50.8687699,14.8051948 L0.263055654,14.8051948 M50.8687699,-4.83116883 L0.26316444,-4.83116883 M50.8687699,-8.25974026 L0.26316444,-8.25974026 M50.8687699,-1.71428571 L0.263334329,-1.71428571 M50.8687699,1.71428571 L0.263055654,1.71428571 M50.8687699,8.25974026 L0.263055654,8.25974026" id="sht-Combined-Shape" stroke="#6145D7" stroke-width="3.35999985" stroke-linecap="square" mask="url(#sht-mask-6)"></path>
+                </g>
+                <g id="sht-img_orange_halfcircle" transform="translate(262.000000, 342.500000) scale(-1, 1) translate(-262.000000, -342.500000) translate(230.000000, 311.000000)">
+                    <g id="sht-Combined-Shape">
+                        <mask id="sht-mask-8" fill="white">
+                            <use xlink:href="#sht-path-7"></use>
+                        </mask>
+                        <use id="sht-Path" fill="#FFBB8E" xlink:href="#sht-path-7"></use>
+                        <path d="M67.8250266,53.3863636 L0.350740872,53.3863636 M67.8250266,61.9772727 L0.350740872,61.9772727 M67.8250266,27.6136364 L0.35088592,27.6136364 M67.8250266,36.2045455 L0.351112438,36.2045455 M67.8250266,45.2045455 L0.350740872,45.2045455 M67.8250266,19.4318182 L0.350740872,19.4318182 M67.8250266,-6.34090909 L0.35088592,-6.34090909 M67.8250266,-10.8409091 L0.35088592,-10.8409091 M67.8250266,-2.25 L0.351112438,-2.25 M67.8250266,2.25 L0.350740872,2.25 M67.8250266,10.8409091 L0.350740872,10.8409091" stroke="#FFDEAF" stroke-width="4.4799998" stroke-linecap="square" mask="url(#sht-mask-8)"></path>
+                    </g>
+                </g>
+                <g id="sht-img_double_circle" transform="translate(978.000000, 455.000000)">
+                    <path d="M5.68434189e-14,86 C69.1783929,86 125.258561,142.412122 125.258561,212 L125.258561,212 L0,212 Z" id="sht-img_purple_big" fill="#6542F4" transform="translate(62.629280, 149.000000) scale(-1, 1) translate(-62.629280, -149.000000) "></path>
+                    <mask id="sht-mask-10" fill="white">
+                        <use xlink:href="#sht-path-9"></use>
+                    </mask>
+                    <use id="sht-img_blue_big" fill="#9EE5FF" transform="translate(230.246792, 126.000000) scale(-1, 1) translate(-230.246792, -126.000000) " xlink:href="#sht-path-9"></use>
+                </g>
+                <g id="sht-img_circle_brain" transform="translate(303.000000, 297.000000)">
+                    <g id="sht-Path-7">
+                        <mask id="sht-mask-12" fill="white">
+                            <use xlink:href="#sht-path-11"></use>
+                        </mask>
+                        <use id="sht-Mask" fill="#13154F" xlink:href="#sht-path-11"></use>
+                        <mask id="sht-mask-14" fill="white">
+                            <use xlink:href="#sht-path-13"></use>
+                        </mask>
+                        <use id="sht-Mask-Copy" fill="#2BB7F4" xlink:href="#sht-path-13"></use>
+                        <polygon fill="#353BCA" mask="url(#sht-mask-14)" points="84.7528809 77.2676056 84.7528809 192.00957 198.653009 155.567222 198.653009 77.2676056"></polygon>
+                        <polygon id="sht-Path-7-Copy" fill="#6542F4" mask="url(#sht-mask-14)" points="84.7528809 -8.7759283 84.7528809 81.6773367 198.653009 81.6773367 198.653009 -8.7759283"></polygon>
+                        <path d="M68.7599186,-5.91549296 L76.6081201,-3.33418694 L76.6081201,138.314981 L68.7599186,138.314981 L68.7599186,-5.91549296 Z M53.3466556,-5.91549296 L61.194857,-3.33418694 L61.194857,138.314981 L53.3466556,138.314981 L53.3466556,-5.91549296 Z M37.9333925,-5.91549296 L45.781594,-3.33418694 L45.781594,138.314981 L37.9333925,138.314981 L37.9333925,-5.91549296 Z M22.5201295,-5.91549296 L30.368331,-3.33418694 L30.368331,138.314981 L22.5201295,138.314981 L22.5201295,-5.91549296 Z M7.10686644,-5.91549296 L14.9550679,-3.33418694 L14.9550679,138.314981 L7.10686644,138.314981 L7.10686644,-5.91549296 Z M-8.30639659,-5.91549296 L-0.458195126,-3.33418694 L-0.458195126,138.314981 L-8.30639659,138.314981 L-8.30639659,-5.91549296 Z" id="sht-Combined-Shape" fill="#353BCA" mask="url(#sht-mask-14)"></path>
+                    </g>
+                    <g id="sht-Mask-Copy-2-+-Combined-Shape-Mask" transform="translate(30.330346, 27.254802)">
+                        <mask id="sht-mask-16" fill="white">
+                            <use xlink:href="#sht-path-15"></use>
+                        </mask>
+                        <use id="sht-Mask" fill="#13154F" xlink:href="#sht-path-15"></use>
+                        <circle id="sht-Mask-Copy-8" fill="#696EFF" mask="url(#sht-mask-16)" cx="-5.48527529" cy="49.3674776" r="54.7451985"></circle>
+                        <circle id="sht-Mask-Copy-7" fill="#696EFF" mask="url(#sht-mask-16)" cx="112.824584" cy="49.3674776" r="54.7451985"></circle>
+                        <circle id="sht-Mask-Copy-6" fill="#353BCA" mask="url(#sht-mask-16)" cx="53.6696543" cy="74.9654289" r="34.524968"></circle>
+                        <circle id="sht-Mask-Copy-5" fill="#3FC57F" mask="url(#sht-mask-16)" cx="-5.48527529" cy="109.597951" r="54.7451985"></circle>
+                        <circle id="sht-Mask-Copy-4" fill="#3FC57F" mask="url(#sht-mask-16)" cx="112.824584" cy="109.597951" r="54.7451985"></circle>
+                    </g>
+                </g>
+                <g id="sht-img_purple_dotsbox" transform="translate(329.000000, 199.000000)">
+                    <rect id="sht-Mask-Copy" fill="#5352FF" x="2.84217094e-14" y="3.55271368e-15" width="125.000002" height="45.6827593"></rect>
+                    <g id="sht-Group-21" transform="translate(12.820513, 10.151724)" stroke="#CDCDF8" stroke-dasharray="0,19.19999885559082" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.83999983">
+                        <line x1="0.174195906" y1="25.0698069" x2="99.5843915" y2="25.0698069" id="sht-Line-9-Copy"></line>
+                        <line x1="0.174195906" y1="13.0146343" x2="99.5843915" y2="13.0146343" id="sht-Line-9-Copy-2"></line>
+                        <line x1="0.174195906" y1="0.324978979" x2="99.5843915" y2="0.324978979" id="sht-Line-9-Copy-3"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

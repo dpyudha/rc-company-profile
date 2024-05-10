@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="172px" height="160px" viewBox="0 0 172 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Process / img_extraction_teal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Process-/-img_extraction_teal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Process-/-img_extraction_active">
+            <path d="M12.2847469,55.972278 L70.2504008,10.3502329 C78.0148104,4.23923053 88.9085291,4.08039365 96.8478043,9.96242698 L158.850758,55.8990432 C166.649528,61.6769793 169.718216,71.8967973 166.392322,81.0151186 L142.836611,145.595806 C139.681794,154.245099 131.456932,160 122.250242,160 L48.4547569,160 C39.1323436,160 30.8304976,154.101772 27.7624298,145.298685 L5.14501828,80.4034263 C2.06656941,71.5705528 4.93434246,61.7574363 12.2847469,55.972278 Z" id="Rectangle-Copy-21" fill="#DFEBEF"></path>
+            <g id="Group" transform="translate(54.091873, 38.935361)">
+                <g id="Group-5" transform="translate(0.000000, 22.298622)">
+                    <g id="Rectangle-Copy-27">
+                        <path d="M0,27.1353149 C2.12874084,13.4392876 12.8417211,2.695075 26.496974,0.561501355 C43.8311377,-2.14688605 60.0722708,9.7517909 62.77256,27.1379402 L62.77256,41.660862 L0,41.660862 L0,27.1379402 L0,27.1353149 Z" id="Mask-Copy-21" fill="#C7E4F0"></path>
+                        <path d="M39.5646202,3.11060076 L39.5646202,36.4585233 C30.4599416,36.4585233 23.0791413,28.9933365 23.0791413,19.784562 C23.0791413,10.5757875 30.4599416,3.11060076 39.5646202,3.11060076 Z" id="Path-Copy-5" fill="#4D8EA8" transform="translate(31.321881, 19.784562) rotate(-270.000000) translate(-31.321881, -19.784562) "></path>
+                        <ellipse id="Oval" fill="#C7E4F0" cx="31.1901158" cy="56.7725509" rx="16.6739613" ry="16.6817345"></ellipse>
+                    </g>
+                    <polygon id="Rectangle-Copy-22" fill="#82B1C4" points="0 27.1379402 31.38628 39.0519458 31.38628 62.8564776 0 50.7190974"></polygon>
+                    <polygon id="Rectangle-Copy-24" fill="#4D8EA8" transform="translate(47.079420, 44.997209) scale(-1, 1) translate(-47.079420, -44.997209) " points="31.38628 27.1379402 62.77256 39.0519458 62.77256 62.8564776 31.38628 50.7190974"></polygon>
+                </g>
+                <ellipse id="Mask-Copy-2" fill="#82B1C4" cx="31.38628" cy="15.3029761" rx="15.2572194" ry="15.3029761"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

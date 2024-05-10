@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1212px" height="653px" viewBox="0 0 1212 653" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>img_shape_hero_whatwedo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M50,0 L50,0 L50,0 L50,50 L0,50 C-3.38176876e-15,22.3857625 22.3857625,5.07265313e-15 50,0 Z" id="img_h_wwdpath-1"></path>
+        <path d="M41.7528536,-7.10542736e-14 C18.9239839,-7.10542736e-14 0.374304393,18.4298401 0.00559368947,41.3054532 L-4.68958206e-13,42 L41.7528536,42 L41.7528536,-7.10542736e-14 Z" id="img_h_wwdpath-3"></path>
+        <rect id="img_h_wwdpath-5" x="-4.54747351e-13" y="-7.10542736e-14" width="47.717547" height="48"></rect>
+        <path d="M-4.54747351e-13,-7.10542736e-14 C35.1382313,-7.10542736e-14 63.623396,28.2060608 63.623396,63 L63.623396,63 L-4.54747351e-13,63 Z" id="img_h_wwdpath-7"></path>
+        <polygon id="img_h_wwdpath-9" points="0 71.8969815 0 20.7206017 40.2498328 0 76.8221488 31.2824161 113.394465 0 156.000002 20.7206017 156.000002 74.6571947 76.8221488 148.000002"></polygon>
+    </defs>
+    <g id="img_h_wwdWhat-We-Do" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-94.000000, -200.000000)" id="img_h_wwdHero-Copy">
+            <g transform="translate(94.000000, 200.000000)">
+                <g id="img_h_wwdimg_shape_hero_whatwedo">
+                    <polygon id="img_h_wwdimg_lightblue" fill="#9EE5FF" transform="translate(1145.200001, 585.799999) scale(1, -1) rotate(-90.000000) translate(-1145.200001, -585.799999) " points="1174.2 519.94802 1116.2 519.799999 1116.2 651.799999 1174.0672 651.799999"></polygon>
+                    <polygon id="img_h_wwdimg_blue_trapesium" fill="#9EE5FF" transform="translate(38.944922, 362.113468) scale(-1, -1) translate(-38.944922, -362.113468) " points="77.8898447 340.801335 2.7000624e-13 340 0.299592164 366.838143 17.0898427 384.226935 77.8898447 384.226935"></polygon>
+                    <g id="img_h_wwdimg_redorange" transform="translate(361.000000, 603.000000)">
+                        <mask id="img_h_wwdmask-2" fill="white">
+                            <use xlink:href="#img_h_wwdpath-1"></use>
+                        </mask>
+                        <use id="img_h_wwdMask" fill="#FFE6D5" transform="translate(25.000000, 25.000000) scale(-1, 1) rotate(-270.000000) translate(-25.000000, -25.000000) " xlink:href="#img_h_wwdpath-1"></use>
+                    </g>
+                    <g id="img_h_wwdimg_Lines_dot" transform="translate(142.000000, 251.000000)" stroke="#CDCDF8" stroke-dasharray="0,24.00000035762787" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.80000007">
+                        <line x1="-3.83693077e-13" y1="32.4000005" x2="124.063924" y2="32.4000005" id="img_h_wwdLine-9-Copy"></line>
+                        <line x1="-3.83693077e-13" y1="0.400000006" x2="124.063924" y2="0.400000006" id="img_h_wwdLine-9-Copy-3"></line>
+                        <line x1="-3.83693077e-13" y1="16.4000002" x2="124.063924" y2="16.4000002" id="img_h_wwdLine-9-Copy-4"></line>
+                    </g>
+                    <g id="img_h_wwdimg_green_halfcircle" transform="translate(270.000000, 43.000000)">
+                        <g id="img_h_wwdCombined-Shape">
+                            <mask id="img_h_wwdmask-4" fill="white">
+                                <use xlink:href="#img_h_wwdpath-3"></use>
+                            </mask>
+                            <use id="img_h_wwdPath" fill="#46CB8B" xlink:href="#img_h_wwdpath-3"></use>
+                            <path d="M44.5101737,35.5909091 L0.230173697,35.5909091 M44.5101737,41.3181818 L0.230173697,41.3181818 M44.5101737,18.4090909 L0.230268885,18.4090909 M44.5101737,24.1363636 L0.230417538,24.1363636 M44.5101737,30.1363636 L0.230173697,30.1363636 M44.5101737,12.9545455 L0.230173697,12.9545455 M44.5101737,-4.22727273 L0.230268885,-4.22727273 M44.5101737,-7.22727273 L0.230268885,-7.22727273 M44.5101737,-1.5 L0.230417538,-1.5 M44.5101737,1.5 L0.230173697,1.5 M44.5101737,7.22727273 L0.230173697,7.22727273" stroke="#299E65" stroke-width="2.91200025" stroke-linecap="square" mask="url(#img_h_wwdmask-4)"></path>
+                        </g>
+                    </g>
+                    <g id="img_h_wwdimg_boxpurple" transform="translate(1141.000000, 533.000000)">
+                        <mask id="img_h_wwdmask-6" fill="white">
+                            <use xlink:href="#img_h_wwdpath-5"></use>
+                        </mask>
+                        <use id="img_h_wwdMask" fill="#9075FF" transform="translate(23.858773, 24.000000) scale(-1, 1) translate(-23.858773, -24.000000) " xlink:href="#img_h_wwdpath-5"></use>
+                        <path d="M50.8687699,40.6753247 L0.263055654,40.6753247 M50.8687699,47.2207792 L0.263055654,47.2207792 M50.8687699,21.038961 L0.26316444,21.038961 M50.8687699,27.5844156 L0.263334329,27.5844156 M50.8687699,34.4415584 L0.263055654,34.4415584 M50.8687699,14.8051948 L0.263055654,14.8051948 M50.8687699,-4.83116883 L0.26316444,-4.83116883 M50.8687699,-8.25974026 L0.26316444,-8.25974026 M50.8687699,-1.71428571 L0.263334329,-1.71428571 M50.8687699,1.71428571 L0.263055654,1.71428571 M50.8687699,8.25974026 L0.263055654,8.25974026" id="img_h_wwdCombined-Shape" stroke="#6145D7" stroke-width="3.35999985" stroke-linecap="square" mask="url(#img_h_wwdmask-6)"></path>
+                    </g>
+                    <g id="img_h_wwdimg_orange" transform="translate(1073.000000, 373.500000) scale(-1, 1) translate(-1073.000000, -373.500000) translate(1041.000000, 342.000000)">
+                        <g id="img_h_wwdCombined-Shape">
+                            <mask id="img_h_wwdmask-8" fill="white">
+                                <use xlink:href="#img_h_wwdpath-7"></use>
+                            </mask>
+                            <use id="img_h_wwdMask" fill="#FFBB8E" transform="translate(31.811698, 31.500000) scale(-1, 1) translate(-31.811698, -31.500000) " xlink:href="#img_h_wwdpath-7"></use>
+                            <path d="M67.8250266,53.3863636 L0.350740872,53.3863636 M67.8250266,61.9772727 L0.350740872,61.9772727 M67.8250266,27.6136364 L0.35088592,27.6136364 M67.8250266,36.2045455 L0.351112438,36.2045455 M67.8250266,45.2045455 L0.350740872,45.2045455 M67.8250266,19.4318182 L0.350740872,19.4318182 M67.8250266,-6.34090909 L0.35088592,-6.34090909 M67.8250266,-10.8409091 L0.35088592,-10.8409091 M67.8250266,-2.25 L0.351112438,-2.25 M67.8250266,2.25 L0.350740872,2.25 M67.8250266,10.8409091 L0.350740872,10.8409091" stroke="#FFDEAF" stroke-width="4.4799998" stroke-linecap="square" mask="url(#img_h_wwdmask-8)"></path>
+                        </g>
+                    </g>
+                    <g id="img_h_wwdimg_heart_home_whatwedo" transform="translate(941.000000, -0.000000)">
+                        <mask id="img_h_wwdmask-10" fill="white">
+                            <use xlink:href="#img_h_wwdpath-9"></use>
+                        </mask>
+                        <use id="img_h_wwdMask" fill="#4950FF" xlink:href="#img_h_wwdpath-9"></use>
+                        <polygon id="img_h_wwdShape-Copy-6" fill="#13154F" mask="url(#img_h_wwdmask-10)" points="8.80000013 90.850896 80.764454 28.0000004 148.800002 91.0291741 72.4482705 160.000002"></polygon>
+                        <path d="M118.374492,-14.4000002 L128.800002,-10.9637586 L128.800002,177.6 L118.374492,177.6 L118.374492,-14.4000002 Z M97.8995936,-14.4000002 L108.325104,-10.9637586 L108.325104,177.6 L97.8995936,177.6 L97.8995936,-14.4000002 Z M77.4246953,-14.4000002 L87.8502052,-10.9637586 L87.8502052,177.6 L77.4246953,177.6 L77.4246953,-14.4000002 Z M56.9497969,-14.4000002 L67.3753069,-10.9637586 L67.3753069,177.6 L56.9497969,177.6 L56.9497969,-14.4000002 Z M36.4748986,-14.4000002 L46.9004085,-10.9637586 L46.9004085,177.6 L36.4748986,177.6 L36.4748986,-14.4000002 Z M16.0000002,-14.4000002 L26.4255102,-10.9637586 L26.4255102,177.6 L16.0000002,177.6 L16.0000002,-14.4000002 Z" id="img_h_wwdCombined-Shape" fill="#3FC57F" mask="url(#img_h_wwdmask-10)"></path>
+                        <polygon id="img_h_wwdShape-Copy-8" fill="#2BB7F4" mask="url(#img_h_wwdmask-10)" points="48.8000007 124.800002 -44.8000007 37.8731713 -2.83687155 16.8000003 48.8000007 59.0780497"></polygon>
+                        <polygon id="img_h_wwdShape-Copy-2" fill="#6542F4" mask="url(#img_h_wwdmask-10)" points="72.0000011 27.0476195 142.421561 -32.0000005 208.000003 29.3253743 148.442736 92.0000014"></polygon>
+                    </g>
+                    <g id="img_h_wwdimg_blockpurple" transform="translate(611.000000, 148.000000)">
+                        <rect id="img_h_wwdMask-Copy" fill="#5352FF" x="2.84217094e-14" y="3.55271368e-15" width="125.000002" height="45.6827593"></rect>
+                        <g id="img_h_wwdGroup-21" transform="translate(12.820513, 10.151724)" stroke="#CDCDF8" stroke-dasharray="0,19.19999885559082" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.83999983">
+                            <line x1="0.174195906" y1="25.0698069" x2="99.5843915" y2="25.0698069" id="img_h_wwdLine-9-Copy"></line>
+                            <line x1="0.174195906" y1="13.0146343" x2="99.5843915" y2="13.0146343" id="img_h_wwdLine-9-Copy-2"></line>
+                            <line x1="0.174195906" y1="0.324978979" x2="99.5843915" y2="0.324978979" id="img_h_wwdLine-9-Copy-3"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

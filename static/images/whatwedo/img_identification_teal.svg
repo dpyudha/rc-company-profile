@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="164px" height="164px" viewBox="0 0 164 164" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Process / img_identification_teal</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="15.1851852" cy="15.1851852" r="15.1851852"></circle>
+        <circle id="path-3" cx="15.1851852" cy="15.1851852" r="15.1851852"></circle>
+        <rect id="path-5" x="0" y="0" width="30.3703704" height="30.3703704"></rect>
+    </defs>
+    <g id="Process-/-img_identification_teal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Process-/-img_identification_active">
+            <rect id="Rectangle-Copy-7" fill="#DFEBEF" x="0" y="0" width="164" height="164" rx="21.9130418"></rect>
+            <rect id="Rectangle" fill="#C7E4F0" x="55.8814815" y="55.2740741" width="61.9555556" height="61.9555556"></rect>
+            <g id="Group-6" transform="translate(42.518519, 42.518519)">
+                <g id="Group" transform="translate(0.101235, 0.585343)">
+                    <circle id="Oval-Copy-8" fill="#82B1C4" cx="14.8858784" cy="14.8858784" r="14.8858784"></circle>
+                    <circle id="Mask-Copy-2" fill="#4D8EA8" cx="14.8858784" cy="15.4440988" r="8.37330659"></circle>
+                </g>
+                <g id="Mask-Copy-2" transform="translate(48.592593, 49.200000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#82B1C4" xlink:href="#path-1"></use>
+                    <ellipse fill="#4D8EA8" mask="url(#mask-2)" cx="14.9742798" cy="23.9540949" rx="15.1851852" ry="15.399061"></ellipse>
+                </g>
+                <g id="Mask-Copy-19" transform="translate(48.592593, 0.607407)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Mask" fill="#82B1C4" xlink:href="#path-3"></use>
+                    <rect id="Rectangle-Copy-14" fill="#4D8EA8" mask="url(#mask-4)" x="-17.8973299" y="9.47044252" width="30.3703704" height="30.3703704"></rect>
+                </g>
+                <g id="Rectangle-Copy-14" transform="translate(0.000000, 49.177936)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <use id="Mask" fill="#4D8EA8" xlink:href="#path-5"></use>
+                    <rect fill="#82B1C4" mask="url(#mask-6)" x="8.82859604" y="-8.12230835" width="30.3703704" height="30.3703704"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

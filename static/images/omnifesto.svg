@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1170" height="500" viewBox="0 0 1170 500">
+    <defs>
+        <path id="a" d="M33 0h1104c18.225 0 33 14.775 33 33v434c0 18.225-14.775 33-33 33H33c-18.225 0-33-14.775-33-33V33C0 14.775 14.775 0 33 0z"/>
+        <path id="c" d="M0 0h464v464H0z"/>
+        <circle id="e" cx="464" cy="464" r="464"/>
+        <path id="g" d="M0 0h229v228H0z"/>
+        <path id="i" d="M0 0h159v159H0z"/>
+        <path id="k" d="M0 0h160v160H0z"/>
+        <circle id="m" cx="160" cy="160" r="160"/>
+        <path id="o" d="M100 0h67v67c0 55.228-44.772 100-100 100H0v-67C0 44.772 44.772 0 100 0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#090B3D" transform="rotate(180 585 250)" xlink:href="#a"/>
+        <g mask="url(#b)">
+            <path fill="#2D2F6A" d="M967 288H738L505 510.868l664 .132 2-221z"/>
+            <g transform="translate(736 -75)">
+                <mask id="d" fill="#fff">
+                    <use xlink:href="#c"/>
+                </mask>
+                <g mask="url(#d)">
+                    <mask id="f" fill="#fff">
+                        <use xlink:href="#e"/>
+                    </mask>
+                    <use fill="#2D2F6D" xlink:href="#e"/>
+                    <g stroke="#484B9B" stroke-dasharray="0,87" stroke-linecap="round" stroke-linejoin="round" stroke-width="29" mask="url(#f)">
+                        <path d="M254.935 183.88h109.637M254.935 283.308h109.637M254.935 382.737h109.637M254.935 482.165h109.637"/>
+                    </g>
+                </g>
+            </g>
+            <path fill="#0F1147" d="M1170 85H947.93L738 289.024V517z"/>
+            <g transform="translate(738 288)">
+                <mask id="h" fill="#fff">
+                    <use xlink:href="#g"/>
+                </mask>
+                <use fill="#4C4E8A" transform="matrix(-1 0 0 1 229 0)" xlink:href="#g"/>
+                <path stroke="#2D2F62" stroke-linecap="square" stroke-width="12" d="M234 191.17H-8m242 31.09H-8M234 97.902H-8m242 31.09H-7.999M234 161.562H-8m242-93.269H-8m242-93.268H-8M234-41.26H-8m242 31.09H-7.999M234 6.115H-8m242 31.089H-8" mask="url(#h)"/>
+            </g>
+            <g transform="translate(1010 357)">
+                <mask id="j" fill="#fff">
+                    <use xlink:href="#i"/>
+                </mask>
+                <use fill="#3B3E8F" xlink:href="#i"/>
+                <g stroke-linecap="square" mask="url(#j)">
+                    <path stroke="#4F52A2" stroke-width="10" d="M251.747-15.396l-241.54 241.54M285.82-1.284L34.3 250.237M336.86-4.142L58.391 274.33M360.954 19.95L82.483 298.421M385.046 44.043l-278.471 278.47M179.47-87.673L-62.07 153.868m217.449-265.633L-86.162 129.776M213.544-73.56L-37.978 177.96M264.585-76.418l-278.47 278.47"/>
+                </g>
+            </g>
+            <g transform="translate(850 357)">
+                <mask id="l" fill="#fff">
+                    <use xlink:href="#k"/>
+                </mask>
+                <g mask="url(#l)">
+                    <mask id="n" fill="#fff">
+                        <use xlink:href="#m"/>
+                    </mask>
+                    <use fill="#2D2F6D" xlink:href="#m"/>
+                    <g stroke="#484B9B" stroke-dasharray="0,30" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" mask="url(#n)">
+                        <path d="M87.91 63.406h37.804M87.91 97.692h37.804M87.91 131.978h37.804"/>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(1003 190)">
+                <mask id="p" fill="#fff">
+                    <use xlink:href="#o"/>
+                </mask>
+                <use fill="#1D206B" transform="matrix(-1 0 0 1 167 0)" xlink:href="#o"/>
+                <g stroke-dasharray="0,30" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" mask="url(#p)">
+                    <path stroke="#4F52A2" d="M70.755 69.774h39.46M70.755 105.56h39.46"/>
+                    <path stroke="#FA924D" d="M91.755 172.345h39.46M91.755 208.13h39.46M91.755 243.917h39.46"/>
+                </g>
+            </g>
+        </g>
+     
+    </g>
+</svg>

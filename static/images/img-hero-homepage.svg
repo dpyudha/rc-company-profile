@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="672" height="560" viewBox="0 0 672 560">
+    <defs>
+        <path id="hh-illustration-a" d="M0 0h91v91H0z"/>
+        <circle id="hh-illustration-c" cx="91.394" cy="91.394" r="91.394"/>
+        <path id="hh-illustration-e" d="M0 0c48.03 0 86.965 38.44 86.965 85.86H0z"/>
+        <path id="hh-illustration-g" d="M0 0c27.671 0 50.103 22.34 50.103 49.896H0z"/>
+        <path id="hh-illustration-i" d="M496 443c68.08 0 123.27 56.159 123.27 124.2H496z"/>
+        <circle id="hh-illustration-j" cx="84" cy="84" r="84"/>
+        <circle id="hh-illustration-k" cx="84" cy="84" r="84"/>
+        <circle id="hh-illustration-m" cx="54.745" cy="54.745" r="54.745"/>
+        <path id="hh-illustration-o" d="M0 .874h143v97H0z"/>
+        <path id="hh-illustration-p" d="M0-54.126h191v72H0z"/>
+        <path id="hh-illustration-q" d="M35.02 35.02h168.94v168.94H35.02z"/>
+        <path id="hh-illustration-s" d="M.004 0c68.08 0 123.27 56.159 123.27 124.2H.004z"/>
+        <path id="hh-illustration-u" d="M88.713 141H172L88.713 0 0 141z"/>
+        <path id="hh-illustration-w" d="M.446 0L49.17 92.172h80.89V16.255z"/>
+        <path id="hh-illustration-x" d="M46.254-34.639v93.597l26.318 13.655V-46.033z"/>
+        <path id="hh-illustration-z" d="M0 89.871v-63.97L50.312 0l45.716 39.103L141.743 0 195 25.9v67.421L96.028 185z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(3 -33)">
+        <g transform="matrix(-1 0 0 1 640 126)">
+            <mask id="hh-illustration-b" fill="#fff">
+                <use xlink:href="#hh-illustration-a"/>
+            </mask>
+            <g mask="url(#hh-illustration-b)">
+                <mask id="hh-illustration-d" fill="#fff">
+                    <use xlink:href="#hh-illustration-c"/>
+                </mask>
+                <use fill="#FFEDE1" xlink:href="#hh-illustration-c"/>
+                <g stroke="#FFBB8E" stroke-dasharray="0,16.19999903440475" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.4" mask="url(#hh-illustration-d)">
+                    <path d="M50.215 36.219H71.81M50.215 55.803H71.81M50.215 75.388H71.81M50.215 94.972H71.81M50.215 114.557H71.81"/>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(267 61)">
+            <mask id="hh-illustration-f" fill="#fff">
+                <use xlink:href="#hh-illustration-e"/>
+            </mask>
+            <use fill="#FFBB8E" transform="matrix(-1 0 0 1 86.965 0)" xlink:href="#hh-illustration-e"/>
+        </g>
+        <path fill="#FFE1E2" d="M346.846 541.332v-34.74h-43.903v-44.316h91.302v79.056z"/>
+        <g stroke="#CDCDF8" stroke-dasharray="0,21.59999942779541" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.32">
+            <path d="M557 95.16h111.658M557 66.36h111.658M557 80.76h111.658"/>
+        </g>
+        <g transform="translate(575 332)">
+            <mask id="hh-illustration-h" fill="#fff">
+                <use xlink:href="#hh-illustration-g"/>
+            </mask>
+            <use fill="#46CB8B" transform="matrix(-1 0 0 1 50.103 0)" xlink:href="#hh-illustration-g"/>
+        </g>
+        <path fill="#FFE1E2" d="M248.471 371.5H163.11L83.483 216.349l164.988 1.088z"/>
+        <path fill="#BD98FF" d="M256.988 448.437H203.85L146.746 340l210.242 1.088v7.35c0 55.228-44.772 100-100 100z"/>
+        <use fill="#FFE1E2" transform="rotate(180 557.633 505.1)" xlink:href="#hh-illustration-i"/>
+        <path fill="#BD98FF" d="M494.743 33l-141.362 71.275V148L514 145.2z"/>
+        <path fill="#2BB7F4" d="M227.024 218.232L352 216.768 272.71 145.2z"/>
+        <path fill="#3A19C1" d="M448.242 222.626l-97.154-4.773L271.709 146l176.533-.8z"/>
+        <g transform="translate(105 79)">
+            <use fill="#2BB7F4" xlink:href="#hh-illustration-j"/>
+            <mask id="hh-illustration-l" fill="#fff">
+                <use xlink:href="#hh-illustration-k"/>
+            </mask>
+            <use fill="#2BB7F4" xlink:href="#hh-illustration-k"/>
+            <path fill="#353BCA" d="M84.753 79.268V194.01l113.9-36.443v-78.3z" mask="url(#hh-illustration-l)"/>
+            <path fill="#6542F4" d="M84.753-6.776v90.453h113.9V-6.776z" mask="url(#hh-illustration-l)"/>
+            <path fill="#353BCA" d="M68.76-5.915l7.848 2.58v141.65H68.76V-5.915zm-15.413 0l7.848 2.58v141.65h-7.848V-5.915zm-15.414 0l7.849 2.58v141.65h-7.849V-5.915zm-15.413 0l7.848 2.58v141.65H22.52V-5.915zm-15.413 0l7.848 2.58v141.65H7.107V-5.915zm-15.413 0l7.848 2.58v141.65h-7.848V-5.915z" mask="url(#hh-illustration-l)"/>
+            <path fill="#13154F" d="M64.958 81.199v158.32l45.182-35.278v-85.075z" mask="url(#hh-illustration-l)" transform="rotate(90 87.55 160.359)"/>
+        </g>
+        <g transform="translate(135.33 108.255)">
+            <mask id="hh-illustration-n" fill="#fff">
+                <use xlink:href="#hh-illustration-m"/>
+            </mask>
+            <use fill="#13154F" xlink:href="#hh-illustration-m"/>
+            <circle cx="-5.485" cy="49.367" r="54.745" fill="#696EFF" mask="url(#hh-illustration-n)"/>
+            <circle cx="112.825" cy="49.367" r="54.745" fill="#696EFF" mask="url(#hh-illustration-n)"/>
+            <circle cx="53.67" cy="74.965" r="34.525" fill="#353BCA" mask="url(#hh-illustration-n)"/>
+            <circle cx="-5.485" cy="109.598" r="54.745" fill="#3FC57F" mask="url(#hh-illustration-n)"/>
+            <circle cx="112.825" cy="109.598" r="54.745" fill="#3FC57F" mask="url(#hh-illustration-n)"/>
+        </g>
+        <g stroke="#CDCDF8" stroke-dasharray="0,30" stroke-linecap="round" stroke-linejoin="round" stroke-width="6">
+            <path d="M0 430.5h155.08M0 390.5h155.08M0 410.5h155.08"/>
+        </g>
+        <g transform="translate(357 271.126)">
+            <use fill="#57D2FF" xlink:href="#hh-illustration-o"/>
+            <use fill="#5352FF" xlink:href="#hh-illustration-p"/>
+        </g>
+        <g transform="translate(380 320)">
+            <mask id="hh-illustration-r" fill="#fff">
+                <use xlink:href="#hh-illustration-q"/>
+            </mask>
+            <use fill="#353BCA" transform="rotate(45 119.49 119.49)" xlink:href="#hh-illustration-q"/>
+            <path fill="#57D2FF" d="M48.822 47.417L111.065-7.03l62.114 51.506-52.145 49.845z" mask="url(#hh-illustration-r)"/>
+            <path fill="#13154F" d="M-22.494 109.914L64.415 48.95h105.952L37.703 172.157zM120.011 119.756H239l-118.989 129.34z" mask="url(#hh-illustration-r)"/>
+            <path fill="#3FC57F" fill-rule="nonzero" d="M170.12 118.57h14.568v66.12c0 15.054-5.584 20.962-19.424 20.962h-45.483l-55.494-59.696 48.311 3.195c-1.176.196-2.452-9.986-3.828-30.546l11.01-.036V-17.6a8.983 8.983 0 0 1 8.984-8.983c4.962 0 5.15 4.022 5.15 8.983v136.17h11.927V-11.678a8.093 8.093 0 0 1 8.093-8.093c4.47 0 5.537 3.623 5.537 8.093V118.57h10.65V2.243a7.284 7.284 0 1 1 14.567 0v149.266a7.284 7.284 0 1 1-14.568 0v-32.94z" mask="url(#hh-illustration-r)"/>
+            <path stroke="#6542F4" stroke-width="16.128" d="M61.859 124.229c0 14.54 11.787 26.328 26.328 26.328 14.54 0 26.329-11.787 26.329-26.328 0-14.54-11.788-26.328-26.329-26.328-10.6 0-19.738 6.264-23.911 15.293" mask="url(#hh-illustration-r)"/>
+        </g>
+        <g stroke="#CDCDF8" stroke-dasharray="0,30" stroke-linecap="round" stroke-linejoin="round" stroke-width="6">
+            <path d="M374.272 273.639h155.08M374.272 254.639h155.08M374.272 234.639h155.08"/>
+        </g>
+        <g transform="translate(234 217)">
+            <mask id="hh-illustration-t" fill="#fff">
+                <use xlink:href="#hh-illustration-s"/>
+            </mask>
+            <use fill="#46CB8B" transform="matrix(-1 0 0 1 123.274 0)" xlink:href="#hh-illustration-s"/>
+        </g>
+        <path fill="#3FC57F" d="M449 109h99v109h-99z"/>
+        <g transform="translate(126 383)">
+            <mask id="hh-illustration-v" fill="#fff">
+                <use xlink:href="#hh-illustration-u"/>
+            </mask>
+            <use fill="#3FC57F" xlink:href="#hh-illustration-u"/>
+            <g mask="url(#hh-illustration-v)">
+                <use fill="#696EFF" transform="translate(70.44 51.175)" xlink:href="#hh-illustration-w"/>
+            </g>
+            <path fill="#6542F4" d="M98.118-14.443L63.664 37.488l15.386 29.03 74.068-.59z" mask="url(#hh-illustration-v)"/>
+            <g mask="url(#hh-illustration-v)">
+                <g transform="translate(-5.607 119.155)">
+                    <mask id="hh-illustration-y" fill="#fff">
+                        <use xlink:href="#hh-illustration-x"/>
+                    </mask>
+                    <use fill="#13154F" transform="rotate(90 59.413 13.29)" xlink:href="#hh-illustration-x"/>
+                    <path fill="#353BCA" d="M110.736-99.296l6.599 2.167V21.755h-6.6v-121.05zm-12.96 0l6.6 2.167V21.755h-6.6v-121.05zm-12.959 0l6.599 2.167V21.755h-6.599v-121.05zm-12.96 0l6.6 2.167V21.755h-6.6v-121.05zm-12.959 0l6.6 2.167V21.755h-6.6v-121.05zm-12.959 0l6.599 2.167V21.755h-6.599v-121.05zm-13.022 0l6.599 2.167V21.755h-6.6v-121.05zm-13.022 0l6.599 2.167V21.755h-6.6v-121.05z" mask="url(#hh-illustration-y)"/>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(164.524 441.133)">
+            <path fill="#4950FF" stroke="#13154F" stroke-width="7.2" d="M5.14 25.83c13.54 11.897 29.218 18.133 44.97 18.133 15.412 0 30.06-5.999 44.055-18.134C79.06 10.695 65.14 3.6 50.11 3.6c-15.37 0-30.43 7.453-44.97 22.23z"/>
+            <ellipse cx="49.583" cy="23.831" fill="#2BB7F4" rx="17.725" ry="16.527"/>
+            <ellipse cx="49.564" cy="23.822" fill="#353BCA" rx="11.103" ry="10.352"/>
+        </g>
+        <g transform="translate(353 33)">
+            <mask id="hh-illustration-A" fill="#fff">
+                <use xlink:href="#hh-illustration-z"/>
+            </mask>
+            <use fill="#4950FF" xlink:href="#hh-illustration-z"/>
+            <path fill="#13154F" d="M11 113.564L100.956 35 186 113.786 90.56 200z" mask="url(#hh-illustration-A)"/>
+            <path fill="#3FC57F" d="M147.968-18L161-13.705V222h-13.032V-18zm-25.594 0l13.032 4.295V222h-13.032V-18zm-25.593 0l13.032 4.295V222H96.78V-18zm-25.594 0l13.032 4.295V222H71.187V-18zm-25.593 0l13.032 4.295V222H45.594V-18zM20-18l13.032 4.295V222H20V-18z" mask="url(#hh-illustration-A)"/>
+            <path fill="#2BB7F4" d="M61 156L-56 47.341-3.546 21 61 73.848z" mask="url(#hh-illustration-A)"/>
+            <path fill="#6542F4" d="M90 33.81L178.027-40 260 36.657 185.553 115z" mask="url(#hh-illustration-A)"/>
+        </g>
+        <path fill="#9EE5FF" d="M548 333.426h77.89v-26.037L608.8 290H548z"/>
+        <g stroke="#CDCDF8" stroke-dasharray="0,24.00000035762787" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.8">
+            <path d="M348 590.4h124.064M348 558.4h124.064M348 574.4h124.064"/>
+        </g>
+    </g>
+</svg>

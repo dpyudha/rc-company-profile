@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="155px" viewBox="0 0 140 155" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>img_triangle_1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="it1-path-1" points="139.035717 0 139.035717 155 5.63437942e-15 155"></polygon>
+    </defs>
+    <g id="it1-Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1137.000000, -1032.000000)" id="it1-Works">
+            <g transform="translate(0.000000, 900.000000)">
+                <g id="it1-img_triangle_1" transform="translate(1137.000000, 132.000000)">
+                    <mask id="it1-mask-2" fill="white">
+                        <use xlink:href="#it1-path-1"></use>
+                    </mask>
+                    <use id="it1-Mask" fill="#261971" xlink:href="#it1-path-1"></use>
+                    <g id="it1-Group-20" mask="url(#it1-mask-2)" stroke="#CDCDF8" stroke-dasharray="0,30" stroke-linecap="round" stroke-linejoin="round" stroke-width="6">
+                        <g transform="translate(26.890962, 20.906932)">
+                            <line x1="-5.68434189e-14" y1="99.5" x2="155.079903" y2="99.5" id="it1-Line-9-Copy"></line>
+                            <line x1="-5.68434189e-14" y1="119.5" x2="155.079903" y2="119.5" id="it1-Line-9-Copy-7"></line>
+                            <line x1="-5.68434189e-14" y1="80.5" x2="155.079903" y2="80.5" id="it1-Line-9-Copy-2"></line>
+                            <line x1="-5.68434189e-14" y1="60.5" x2="155.079903" y2="60.5" id="it1-Line-9-Copy-4"></line>
+                            <line x1="-5.68434189e-14" y1="40.5" x2="155.079903" y2="40.5" id="it1-Line-9-Copy-3"></line>
+                            <line x1="0.10903775" y1="20.5" x2="6895.10904" y2="20.5" id="it1-Line-9-Copy-6"></line>
+                            <line x1="-5.68434189e-14" y1="0.5" x2="155.079903" y2="0.5" id="it1-Line-9-Copy-5"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,48 @@
+{
+  "name": "omnicreativora",
+  "version": "1.0.0",
+  "license": "ISC",
+  "author": "dickiprima <dickiprima@gmail.com>",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "static": "next build && next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fullpage/react-fullpage": "^0.1.16",
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
+    "babel-plugin-inline-react-svg": "^1.1.0",
+    "dotenv": "^8.2.0",
+    "es6-promise": "4.1.1",
+    "express": "^4.17.1",
+    "isomorphic-unfetch": "2.0.0",
+    "next": "^9.0.5",
+    "next-images": "^1.1.2",
+    "next-redux-saga": "4.0.0",
+    "next-redux-wrapper": "2.0.0",
+    "next-sass": "^1.0.3",
+    "react": "^16.12.0",
+    "react-cursor": "^2.0.15",
+    "react-cursor-custom": "^1.2.4",
+    "react-device-detect": "^1.11.14",
+    "react-dom": "^16.0.0",
+    "react-fullpage": "^0.1.19",
+    "react-lazyload": "^3.0.0",
+    "react-page-scroller": "^1.5.1",
+    "react-redux": "5.0.7",
+    "react-slick": "^0.25.2",
+    "redux": "4.0.1",
+    "redux-saga": "1.0.1",
+    "scrollmonitor-react": "^2.4.1",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^4.3.2"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.8.0",
+    "node-sass": "^4.12.0",
+    "redux-devtools-extension": "2.13.2",
+    "sass-loader": "^8.0.0"
+  }
+}

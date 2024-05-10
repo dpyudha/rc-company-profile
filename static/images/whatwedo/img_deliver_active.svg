@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="164px" height="164px" viewBox="0 0 164 164" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Process / img_deliver_active</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Process-/-img_deliver_active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-13.000000, -20.000000)">
+            <path d="M111.903404,33.6216187 L174.390255,151.542392 C179.562163,161.302451 175.842732,173.407202 166.082673,178.579109 C163.18123,180.116599 159.945862,180.916053 156.662242,180.906881 L32.8780045,180.561128 C21.8323526,180.530275 12.9030936,171.550994 12.9339462,160.505342 C12.9428857,157.304881 13.7197644,154.1533 15.1993203,151.315352 L76.4967066,33.7403321 C81.6030506,23.9458117 93.6825878,20.1452939 103.477108,25.2516379 C107.068595,27.124049 110.006952,30.042768 111.903404,33.6216187 Z" id="Rectangle-Copy-25" fill="#E0FAEC"></path>
+            <g id="Group" transform="translate(62.000000, 85.000000)">
+                <polygon id="Rectangle-Copy-26" fill="#1E804D" points="-1.42108547e-14 28.978403 32.2120475 41.0610652 32.2120475 60.3839194 -1.42108547e-14 47.9358294"></polygon>
+                <ellipse id="Mask-Copy-2" fill="#FFC067" cx="14.0927708" cy="58.7736816" rx="14.0927708" ry="14.0895812"></ellipse>
+                <path d="M65.2392615,2.81791624 L65.2392615,68.0325492 C47.0042833,68.0325492 32.2219128,53.4337564 32.2219128,35.4252327 C32.2219128,17.4167091 47.0042833,2.81791624 65.2392615,2.81791624 Z" id="Path-Copy-5" fill="#81E0AF" transform="translate(48.730587, 35.425233) rotate(-180.000000) translate(-48.730587, -35.425233) "></path>
+                <polygon id="Rectangle-Copy-30" fill="#096133" transform="translate(32.212047, 28.581722) scale(-1, 1) translate(-32.212047, -28.581722) " points="-2.84217094e-14 28.8976074 32.2120475 41.0610652 64.4240949 28.9782052 32.2120475 16.1023785"></polygon>
+                <polygon id="Triangle-Copy" fill="#3892B9" points="14.0927708 -1.26121336e-13 22.9510838 16.1023785 5.23445771 16.1023785"></polygon>
+                <ellipse id="Mask-Copy-2" fill="#D7FEF8" cx="32.2120475" cy="28.9842813" rx="8.85831305" ry="8.85630818"></ellipse>
+                <ellipse id="Mask-Copy-23" fill="#5DBCC1" cx="32.2120475" cy="28.9842813" rx="5.6371083" ry="5.63583248"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

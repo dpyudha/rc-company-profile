@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="138px" height="139px" viewBox="0 0 138 139" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>img_halfcircle_green</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M138,0 C62.5468575,0 1.23713715,60.9939946 0.0184880572,136.701381 L0,139 L138,139 L138,0 Z" id="hcg-path-1"></path>
+    </defs>
+    <g id="hcg-Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1125.000000, -1420.000000)" id="hcg-Works">
+            <g transform="translate(0.000000, 900.000000)">
+                <g id="hcg-img_halfcircle_green" transform="translate(1125.000000, 520.000000)">
+                    <mask id="hcg-mask-2" fill="white">
+                        <use xlink:href="#hcg-path-1"></use>
+                    </mask>
+                    <use id="hcg-Path" fill="#46CB8B" xlink:href="#hcg-path-1"></use>
+                    <path d="M197.414286,129.5 L-66,129.5 M197.414286,150.5 L-66,150.5 M197.414286,66.5 L-65.9996487,66.5 M197.414286,87.5 L-65.9991001,87.5 M197.414286,109.5 L-66,109.5 M197.414286,46.5 L-66,46.5 M197.414286,-16.5 L-65.9996487,-16.5 M197.414286,4.5 L-66,4.5 M197.414286,25.5 L-66,25.5" id="hcg-Combined-Shape" stroke="#2BB0A2" stroke-width="6" stroke-linecap="square" mask="url(#hcg-mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

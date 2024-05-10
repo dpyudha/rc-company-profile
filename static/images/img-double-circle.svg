@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="358" height="252" viewBox="0 0 358 252">
+    <defs>
+        <path id="a" d="M103 0c140.553 0 254.494 112.824 254.494 252H103z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#6542F4" d="M125.259 86C56.08 86 0 142.412 0 212h125.259z"/>
+        <use fill="#9EE5FF" transform="matrix(-1 0 0 1 460.494 0)" xlink:href="#a"/>
+    </g>
+</svg>

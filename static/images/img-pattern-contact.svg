@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="966px" height="208px" viewBox="0 0 966 208" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>img_pattern_hero</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M41.7528536,42 L41.7528536,-7.10542736e-14 C18.9239839,-7.10542736e-14 0.374304393,18.4298401 0.00559368947,41.3054532 L-4.68958206e-13,42 L41.7528536,42 L41.7528536,-7.10542736e-14 L41.7528536,42 Z" id="path-1"></path>
+        <path d="M63.623396,63 L63.623396,-7.10542736e-14 C28.836547,-7.10542736e-14 0.570368599,27.6447602 0.00852371729,61.9581798 L-4.54747351e-13,63 L63.623396,63 L63.623396,-7.10542736e-14 L63.623396,63 Z" id="path-3"></path>
+    </defs>
+    <g id="Contact" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-233.000000, -140.000000)" id="img_pattern_hero">
+            <g transform="translate(236.000000, 140.000000)">
+                <g id="img_Lines_dot" transform="translate(0.000000, 54.000000)" stroke="#CDCDF8" stroke-dasharray="0,24.00000035762787" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.80000007">
+                    <line x1="-3.83693077e-13" y1="32.4000005" x2="124.063924" y2="32.4000005" id="Line-9-Copy"></line>
+                    <line x1="-3.83693077e-13" y1="0.400000006" x2="124.063924" y2="0.400000006" id="Line-9-Copy-3"></line>
+                    <line x1="-3.83693077e-13" y1="16.4000002" x2="124.063924" y2="16.4000002" id="Line-9-Copy-4"></line>
+                </g>
+                <g id="img_green_halfcircle" transform="translate(541.000000, 0.000000)">
+                    <g id="Combined-Shape">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Path" fill="#46CB8B" xlink:href="#path-1"></use>
+                        <path d="M44.5101737,35.5909091 L0.230173697,35.5909091 M44.5101737,41.3181818 L0.230173697,41.3181818 M44.5101737,18.4090909 L0.230268885,18.4090909 M44.5101737,24.1363636 L0.230417538,24.1363636 M44.5101737,30.1363636 L0.230173697,30.1363636 M44.5101737,12.9545455 L0.230173697,12.9545455 M44.5101737,-4.22727273 L0.230268885,-4.22727273 M44.5101737,-7.22727273 L0.230268885,-7.22727273 M44.5101737,-1.5 L0.230417538,-1.5 M44.5101737,1.5 L0.230173697,1.5 M44.5101737,7.22727273 L0.230173697,7.22727273" stroke="#299E65" stroke-width="2.91200025" stroke-linecap="square" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+                <g id="img_orange" transform="translate(931.000000, 176.500000) scale(-1, 1) translate(-931.000000, -176.500000) translate(899.000000, 145.000000)">
+                    <g id="Combined-Shape">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Path" fill="#FFBB8E" xlink:href="#path-3"></use>
+                        <path d="M67.8250266,53.3863636 L0.350740872,53.3863636 M67.8250266,61.9772727 L0.350740872,61.9772727 M67.8250266,27.6136364 L0.35088592,27.6136364 M67.8250266,36.2045455 L0.351112438,36.2045455 M67.8250266,45.2045455 L0.350740872,45.2045455 M67.8250266,19.4318182 L0.350740872,19.4318182 M67.8250266,-6.34090909 L0.35088592,-6.34090909 M67.8250266,-10.8409091 L0.35088592,-10.8409091 M67.8250266,-2.25 L0.351112438,-2.25 M67.8250266,2.25 L0.350740872,2.25 M67.8250266,10.8409091 L0.350740872,10.8409091" stroke="#FFDEAF" stroke-width="4.4799998" stroke-linecap="square" mask="url(#mask-4)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="87px" height="87px" viewBox="0 0 87 87" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>img_work_color</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="wc-path-1" cx="43.5" cy="43.5" r="43.5"></circle>
+        <circle id="wc-path-3" cx="43.5" cy="43.5" r="43.5"></circle>
+        <circle id="wc-path-5" cx="28.3501921" cy="28.3501921" r="28.3501921"></circle>
+    </defs>
+    <g id="wc-Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-333.000000, -2830.000000)" id="wc-BOTTOM">
+            <g transform="translate(0.000000, 2700.000000)">
+                <g id="wc-Got-Idea?-Copy">
+                    <g transform="translate(249.000000, 130.000000)" id="wc-img_work_color">
+                        <g transform="translate(84.000000, 0.000000)">
+                            <g>
+                                <g id="wc-Path-7">
+                                    <mask id="wc-mask-2" fill="white">
+                                        <use xlink:href="#wc-path-1"></use>
+                                    </mask>
+                                    <use id="wc-Mask" fill="#2BB7F4" xlink:href="#wc-path-1"></use>
+                                    <mask id="wc-mask-4" fill="white">
+                                        <use xlink:href="#wc-path-3"></use>
+                                    </mask>
+                                    <use id="wc-Mask-Copy" fill="#2BB7F4" xlink:href="#wc-path-3"></use>
+                                    <polygon fill="#353BCA" mask="url(#wc-mask-4)" points="43.8898848 41.0492958 43.8898848 100.469241 102.87388 81.5973111 102.87388 41.0492958"></polygon>
+                                    <polygon id="wc-Path-7-Copy" fill="#6542F4" mask="url(#wc-mask-4)" points="43.8898848 -3.50896287 43.8898848 43.3329065 102.87388 43.3329065 102.87388 -3.50896287"></polygon>
+                                    <path d="M35.607815,-3.06338028 L39.6720622,-1.72663252 L39.6720622,71.6274008 L35.607815,71.6274008 L35.607815,-3.06338028 Z M27.6259466,-3.06338028 L31.6901938,-1.72663252 L31.6901938,71.6274008 L27.6259466,71.6274008 L27.6259466,-3.06338028 Z M19.6440783,-3.06338028 L23.7083255,-1.72663252 L23.7083255,71.6274008 L19.6440783,71.6274008 L19.6440783,-3.06338028 Z M11.6622099,-3.06338028 L15.7264571,-1.72663252 L15.7264571,71.6274008 L11.6622099,71.6274008 L11.6622099,-3.06338028 Z M3.68034155,-3.06338028 L7.74458874,-1.72663252 L7.74458874,71.6274008 L3.68034155,71.6274008 L3.68034155,-3.06338028 Z M-4.30152681,-3.06338028 L-0.237279619,-1.72663252 L-0.237279619,71.6274008 L-4.30152681,71.6274008 L-4.30152681,-3.06338028 Z" id="wc-Combined-Shape" fill="#353BCA" mask="url(#wc-mask-4)"></path>
+                                    <polygon id="wc-Path-7-Copy-2" fill="#13154F" mask="url(#wc-mask-4)" points="86.3316261 71.3440958 4.34443022 71.3440958 22.6133163 94.7419974 66.6702945 94.7419974"></polygon>
+                                </g>
+                                <g id="wc-Mask-Copy-2-+-Combined-Shape-Mask" transform="translate(15.706786, 15.149808)">
+                                    <mask id="wc-mask-6" fill="white">
+                                        <use xlink:href="#wc-path-5"></use>
+                                    </mask>
+                                    <use id="wc-Mask" fill="#13154F" xlink:href="#wc-path-5"></use>
+                                    <circle id="wc-Mask-Copy-8" fill="#696EFF" mask="url(#wc-mask-6)" cx="-2.84058899" cy="25.5653009" r="28.3501921"></circle>
+                                    <circle id="wc-Mask-Copy-7" fill="#696EFF" mask="url(#wc-mask-6)" cx="58.4270166" cy="25.5653009" r="28.3501921"></circle>
+                                    <circle id="wc-Mask-Copy-6" fill="#353BCA" mask="url(#wc-mask-6)" cx="27.7932138" cy="38.8213828" r="17.8790013"></circle>
+                                    <circle id="wc-Mask-Copy-5" fill="#3FC57F" mask="url(#wc-mask-6)" cx="-2.84058899" cy="56.7560819" r="28.3501921"></circle>
+                                    <circle id="wc-Mask-Copy-4" fill="#3FC57F" mask="url(#wc-mask-6)" cx="58.4270166" cy="56.7560819" r="28.3501921"></circle>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,74 @@
+<svg width="622" height="536" viewBox="0 0 622 536" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="309" y="65" width="104" height="104">
+<path d="M360.619 65.0132L412.226 116.619L360.619 168.226L309.013 116.619L360.619 65.0132Z" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path d="M360.619 65.0132L412.226 116.619L360.619 168.226L309.013 116.619L360.619 65.0132Z" fill="#353BCA"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M330.091 85.484L356.98 61.9633L383.813 84.2141L361.287 105.747L330.091 85.484Z" fill="#57D2FF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M299.283 112.483L336.827 86.1465H382.599L325.288 139.372L299.283 112.483Z" fill="#13154F"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M360.845 116.734H412.248L360.845 172.61V116.734Z" fill="#13154F"/>
+<path d="M382.492 116.222H388.785V144.786C388.785 151.289 386.373 153.842 380.394 153.842H360.745L336.772 128.053L357.643 129.433C357.134 129.518 356.583 125.119 355.989 116.238L360.745 116.222V57.3966C360.745 55.2532 362.483 53.5157 364.626 53.5157C366.769 53.5157 366.851 55.2532 366.851 57.3966V116.222H372.003V59.9552C372.003 58.0243 373.569 56.4589 375.499 56.4589C377.43 56.4589 377.891 58.0243 377.891 59.9552V116.222H382.492V65.9688C382.492 64.2309 383.901 62.8221 385.639 62.8221C387.376 62.8221 388.785 64.2309 388.785 65.9688V130.452C388.785 132.19 387.376 133.598 385.639 133.598C383.901 133.598 382.492 132.19 382.492 130.452V116.222Z" fill="#3FC57F"/>
+<path d="M335.723 118.667C335.723 124.948 340.815 130.041 347.097 130.041C353.378 130.041 358.471 124.948 358.471 118.667C358.471 112.385 353.378 107.293 347.097 107.293C342.517 107.293 338.57 109.999 336.767 113.9" stroke="#6542F4" stroke-width="6.96729"/>
+</g>
+<g clip-path="url(#clip0)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M552.369 86.2737L552.369 48.4946L508.466 48.4946L508.466 0.300453L599.768 0.300415L599.768 86.2737L552.369 86.2737Z" fill="#FFE1E2"/>
+</g>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="240" y="468" width="69" height="68">
+<path d="M308.735 535.575V468C271.154 468 240.616 497.652 240.009 534.458L240 535.575H308.735V468V535.575Z" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+<path d="M308.735 535.575V468C271.154 468 240.616 497.652 240.009 534.458L240 535.575H308.735V468V535.575Z" fill="#FFBB8E"/>
+<path d="M313.275 479.628H240.379M313.275 525.263H240.379H313.275ZM313.275 534.478H240.379H313.275ZM313.275 497.619H240.379H313.275ZM313.275 506.834H240.379H313.275ZM313.275 516.487H240.379H313.275ZM313.275 488.843H240.379H313.275ZM313.275 461.199H240.379H313.275ZM313.275 456.372H240.379H313.275ZM313.275 465.587H240.379H313.275ZM313.275 470.413H240.379H313.275Z" stroke="#FFDEAF" stroke-width="6.75683" stroke-linecap="square"/>
+</g>
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="398" width="83" height="84">
+<path d="M82.8657 440.147L41.5 398.781L0.134254 440.147L41.5 481.512L82.8657 440.147Z" fill="white"/>
+</mask>
+<g mask="url(#mask2)">
+<path d="M82.8657 440.147L41.5 398.781L0.134254 440.147L41.5 481.512L82.8657 440.147Z" fill="#3FC57F"/>
+<path d="M79.98 446.02L36.8578 402.897M52.5446 473.455L9.42241 430.333L52.5446 473.455ZM47.0048 478.995L3.88256 435.873L47.0048 478.995ZM69.1642 456.835L26.042 413.713L69.1642 456.835ZM63.6243 462.375L20.5023 419.253L63.6243 462.375ZM57.8207 468.179L14.6985 425.057L57.8207 468.179ZM74.4402 451.559L31.318 408.437L74.4402 451.559ZM91.0597 434.94L47.9376 391.818L91.0597 434.94ZM93.9616 432.038L50.8394 388.916L93.9616 432.038ZM85.5199 440.48L42.3977 397.358L85.5199 440.48Z" stroke="#249C5D" stroke-width="3.6" stroke-linecap="square"/>
+</g>
+<g clip-path="url(#clip1)">
+<path d="M138 28.5L7.5 28.5L7.5 80.34L138 80.34L138 28.5Z" fill="#5352FF"/>
+<circle cx="27" cy="40" r="3" fill="#CDCDF8"/>
+<circle cx="54" cy="40" r="3" fill="#CDCDF8"/>
+<circle cx="78" cy="40" r="3" fill="#CDCDF8"/>
+<circle cx="101" cy="40" r="3" fill="#CDCDF8"/>
+<circle cx="124" cy="40" r="3" fill="#CDCDF8"/>
+<circle cx="27" cy="55" r="3" fill="#CDCDF8"/>
+<circle cx="54" cy="55" r="3" fill="#CDCDF8"/>
+<circle cx="78" cy="55" r="3" fill="#CDCDF8"/>
+<circle cx="101" cy="55" r="3" fill="#CDCDF8"/>
+<circle cx="124" cy="55" r="3" fill="#CDCDF8"/>
+<circle cx="27" cy="69" r="3" fill="#CDCDF8"/>
+<circle cx="54" cy="69" r="3" fill="#CDCDF8"/>
+<circle cx="78" cy="69" r="3" fill="#CDCDF8"/>
+<circle cx="101" cy="69" r="3" fill="#CDCDF8"/>
+<circle cx="124" cy="69" r="3" fill="#CDCDF8"/>
+</g>
+<circle cx="474.5" cy="451.5" r="3.5" fill="#CDCEF5"/>
+<circle cx="501.5" cy="451.5" r="3.5" fill="#CDCEF5"/>
+<circle cx="528.5" cy="451.5" r="3.5" fill="#CDCEF5"/>
+<circle cx="556.5" cy="451.5" r="3.5" fill="#CDCEF5"/>
+<circle cx="582.5" cy="451.5" r="3.5" fill="#CDCEF5"/>
+<circle cx="610.5" cy="451.5" r="3.5" fill="#CDCEF5"/>
+<circle cx="474.5" cy="468.5" r="3.5" fill="#CDCEF5"/>
+<circle cx="501.5" cy="468.5" r="3.5" fill="#CDCEF5"/>
+<circle cx="528.5" cy="468.5" r="3.5" fill="#CDCEF5"/>
+<circle cx="556.5" cy="468.5" r="3.5" fill="#CDCEF5"/>
+<circle cx="582.5" cy="468.5" r="3.5" fill="#CDCEF5"/>
+<circle cx="610.5" cy="468.5" r="3.5" fill="#CDCEF5"/>
+<circle cx="474.5" cy="486.5" r="3.5" fill="#CDCEF5"/>
+<circle cx="501.5" cy="486.5" r="3.5" fill="#CDCEF5"/>
+<circle cx="528.5" cy="486.5" r="3.5" fill="#CDCEF5"/>
+<circle cx="556.5" cy="486.5" r="3.5" fill="#CDCEF5"/>
+<circle cx="582.5" cy="486.5" r="3.5" fill="#CDCEF5"/>
+<circle cx="610.5" cy="486.5" r="3.5" fill="#CDCEF5"/>
+<defs>
+<clipPath id="clip0">
+<rect width="93" height="87" transform="matrix(-1 0 0 1 606 0)" fill="white"/>
+</clipPath>
+<clipPath id="clip1">
+<rect x="138" y="28" width="53" height="131" transform="rotate(90 138 28)" fill="white"/>
+</clipPath>
+</defs>
+</svg>
